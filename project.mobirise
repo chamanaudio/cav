@@ -1,0 +1,560 @@
+{
+  "settings": {
+    "currentPage": "CAV.html",
+    "versionFirst": "2.9",
+    "versionPublish": "3.10.4",
+    "name": "Chamanaudio",
+    "theme": {
+      "name": "default",
+      "title": "Mobirise",
+      "styling": {}
+    },
+    "uniqCompNum": 10
+  },
+  "pages": {
+    "CAV.html": {
+      "settings": {
+        "main": true,
+        "title": "Home page",
+        "meta_descr": "Chaman Audio Visual Services ",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2969b0"
+            },
+            ".mbr-navbar__section": {
+              "background": "#2969b0"
+            },
+            ".mbr-navbar__items a": {
+              "font-size": "14px"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-0",
+          "_params": {
+            "color": "#2969b0",
+            "hamburgerColor": "#ffffff",
+            "transparent": false,
+            "sticky": true,
+            "collapsed": false,
+            "logo": true,
+            "showBrand": true,
+            "showButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/chaman-603x291-67.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Chaman Audio Visual Services",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\"></a></li>  ",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"#top\" data-toolbar=\"-mbrBtnMove\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"Equipment_lisst.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">EQUIPMENT RENTAL</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"#top\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REQUEST FOR QUOTE</a></li>"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header1",
+          "_styles": {
+            "P": {
+              "text-align": "left",
+              "color": "#ffffff",
+              "font-size": "18px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            "H1": {
+              "text-align": "center",
+              "color": "#ffffff",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          },
+          "_anchor": "header1-1",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/maxresdefault-1280x720-16.jpg",
+            "bgColor": "#faaf40",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "contentAlign": "center",
+            "overlay": true,
+            "overlayOpacity": "0.5",
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true
+          },
+          "title": "COMPLETE SOLUTION FOR ALL YOUR AV NEEDS.",
+          "text": "<br>AUDIO VISUAL EQUIPMENT RENTAL FOR ALL YOUR NEEDS. &nbsp;FOR SMALL MEETINGS , CONFERENCES, PRODUCT LAUNCHES, WEDDINGS, SEMINARS. AND SPECIALS EVENTS. <br><br>GET SPECIAL OFFERS FOR YOUR SPECIAL NEEDS.&nbsp;<br><br>PARTNER WITH THE BE BEST IN THE INDUSTRY &nbsp;AND BE RELAXED. WE WILL DO THE REST.",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">DOWNLOAD NOW</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "slider",
+          "_styles": {
+            "P": {
+              "text-align": "left",
+              "color": "#000000",
+              "font-size": "13px"
+            },
+            "H1": {
+              "color": "#000000",
+              "text-align": "left",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "24px"
+            }
+          },
+          "_params": {
+            "autoplay": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "slides": [
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/projectors-3300x1800-74.png",
+                "showTitle": true,
+                "title": "<br><br>LCD &amp; LED PROJECTORS:&nbsp;<br>",
+                "showText": true,
+                "text": "ANSI Lumens : 800 to 10000 &nbsp; | &nbsp;&nbsp;Projection Sizes : &nbsp;4ft x 3ft | 7ft x 5ft | 8ft x 6ft | 9ft x 12ft |&nbsp;16ft x 12ft<br>Ideal for all kinds of meetings and conferences,&nbsp;wessings, parties and other events.<br>Special Conference packages also available.&nbsp;Kindly speak to our sales team.&nbsp;<br><br><br><br><br><br><br>",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">REQUEST FOR QUOTE</a> "
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/hi-projectors-3300x1800-62.png",
+                "showTitle": true,
+                "title": "<br>HD Projection Projects",
+                "showText": true,
+                "text": "Hi end DLP projectors for different application and usage including <br>1. &nbsp;360 |270|180|90 degrees projections. <br>2. &nbsp;Large format projections.&nbsp;<br>3. &nbsp;Video Mapping Projects.<br>4. &nbsp;Outdoor Building projections.<br>5. Custom application of any size and dimensions.<br><br><br><br><br><br><br>",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">REQUEST FOR QUOTE</a> "
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/plasma-led-tv-3300x1800-78.png",
+                "showTitle": true,
+                "title": "<br><br>LED &amp; PLASMA SCREENS | SERVERS &nbsp;| LAPTOPS",
+                "showText": true,
+                "text": "Choose from a wide range of LED &amp; Plasma Screens for view monitors, retail signages and other applications. Hi end Servers in required configurtaion and Laptops also available on shortlerm or long term rentals.<br><br><br><br><br><br><br><br>",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">REQUEST FOR QUOTE</a> "
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/led-screens-3300x1800-3.png",
+                "showTitle": true,
+                "title": "<br><br>LED VIDEO WALLS&nbsp;",
+                "showText": true,
+                "text": "Choose from available HI end LED video modules from 3mm to 7.2 mm for all your indorr application. Ideallu suits video presentations and Powerpoint slide presentation for corporate events. &nbsp;Wide screen of any configuration and servers available.<br><br><br><br><br><br><br><br><br>",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">REQUEST FOR QUOTE</a> "
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/lef-walls-3299x1804-93.png",
+                "showTitle": true,
+                "title": "<br><br>LFD Almost Seamless Video Walls",
+                "showText": true,
+                "text": "Ideally suits retails and dealerships for Singages and advertising for activations etc. Also can be used in other different applications including multi location video conferenceing technology. For more options and usages kindly contact our experts for advice.<br><br><br><br><br><br><br><br>",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">REQUEST FOR QUOTE</a> "
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/watchout-screen-3300x1800-58.png",
+                "showTitle": true,
+                "title": "<br><br>WATCHOUT PROJECTS",
+                "showText": true,
+                "text": "CAV has an expertise in designing and planning custom format Watchout application&nbsp;with LED &amp; HI end projections for special projects. Partner with us for your next big thing.<br><br><br><br><br><br><br><br><br><br>",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"index.html#contacts3-10\" data-toolbar=\"-mbrBtnMove\">TALK TO US&nbsp;</a> "
+              }
+            ],
+            "fullScreen": true,
+            "bgColor": "#efefef",
+            "showBullets": true
+          },
+          "_anchor": "slider-3",
+          "articleLayout": false
+        },
+        {
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "images": [
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-0139-3264x2448-15-2000x1500-5.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-0139-3264x2448-15.jpg",
+                "active": true
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-0162-3264x2448-44-2000x1500-94.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-0162-3264x2448-44.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-0281-3264x2448-90-2000x1500-44.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-0281-3264x2448-90.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-1303-3264x2448-76-2000x1500-75.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-1303-3264x2448-76.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-1403-3264x2448-39-2000x1500-43.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-1403-3264x2448-39.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-1476-3264x2448-21-2000x1500-69.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-1476-3264x2448-21.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-1607-3264x2448-1-2000x1500-48.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-1607-3264x2448-1.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-1251-3264x2448-37-2000x1500-91.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-1251-3264x2448-37.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-1224-3264x2448-32-2000x1500-31.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-1224-3264x2448-32.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-1212-3264x2448-58-2000x1500-43.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-1212-3264x2448-58.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-1001-3264x2448-2-2000x1500-26.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-1001-3264x2448-2.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-1147-3264x2448-35-2000x1500-39.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-1147-3264x2448-35.jpg",
+                "active": false
+              }
+            ],
+            "showText": false,
+            "bgColor": "#efefef",
+            "fullWidth": false,
+            "noGutter": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery1-12",
+          "articleLayout": false
+        },
+        {
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-11",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": true,
+            "counters": true,
+            "facebook": true,
+            "google": true,
+            "twitter": false
+          },
+          "text": "SHARE THIS PAGE!"
+        },
+        {
+          "_name": "contacts3",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "contacts3-10",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#00a885",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "text1": "<strong>ADDRESS</strong><br>K-19/9 B, Gali No 5, Gangotri Vihar, &nbsp;<br><span style=\"line-height: 1.7em;\">New Delhi - 110053, India</span><br><br>\n<strong>CONTACTS</strong><br>\nEmail: &nbsp;chamangupta4av@gmail.com<br>\nPhone: +(91)-9871134773, 9871150936<br><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://in.linkedin.com/in/chaman-gupta-7581423b\" target=\"_blank\" class=\"text-white\">LinkedIn Profile</a></li><li><a href=\"https://www.facebook.com/chaman.p.gupta\" target=\"_blank\" class=\"text-white\">Facebook profile</a></li><li><br></li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "chamangupta4av@gmail.com",
+            "alerts": {
+              "success": "Thank you for sending your enquiry. Our rental team would get back to you shortly.\n\nThank you for considering CAV.\n\nFor special deals and offers call +91 9871134773 or mail us at chamangupta4av@gmail.com\n\nWarm Regards\n\nChaman Audio Visual.\nNew Delhi"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Your Requirement"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">CONTACT US</a>"
+        }
+      ]
+    },
+    "Equipment_lisst.html": {
+      "settings": {
+        "title": "List of available Equipments",
+        "meta_descr": ""
+      },
+      "components": [
+        {
+          "_inherit": "header1",
+          "_tags": [
+            "Theme"
+          ],
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header2",
+          "_styles": {
+            "H1": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "header2-8",
+          "_params": {
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-1476-3264x2448-21-2000x1500-12.jpg",
+            "bgColor": "#4c6972",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "contentAlign": "right",
+            "overlay": true,
+            "overlayOpacity": "0.7",
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false
+          },
+          "title": "EQUIPMENTS",
+          "text": "Here you can check our list of inventories and equipment tht we have in our rental store. &nbsp;Click below to download the latest list.",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Download list</a>"
+        },
+        {
+          "_inherit": "dropdown-menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#ffffff"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#333333"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#292929"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "dropdown-menu-2btn",
+          "_anchor": "dropdown-menu-2btn-9",
+          "_params": {
+            "bgColor": "#333333",
+            "fontSize": 1,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/chaman-603x291-67-265x128-50.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CHAMAN AUDIO VISUAL&nbsp;</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">HOME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">FOR WINDOWS</a></li>"
+        }
+      ]
+    },
+    "RFQ": {
+      "settings": {
+        "title": "Request for Quote",
+        "meta_descr": "Request for quotation"
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2969b0"
+            },
+            ".mbr-navbar__section": {
+              "background": "#2969b0"
+            },
+            ".mbr-navbar__items a": {
+              "font-size": "14px"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-0",
+          "_params": {
+            "color": "#2969b0",
+            "hamburgerColor": "#ffffff",
+            "transparent": false,
+            "sticky": true,
+            "collapsed": false,
+            "logo": true,
+            "showBrand": true,
+            "showButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/chaman-603x291-67.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Chaman Audio Visual Services",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\"></a></li>  ",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"#top\" data-toolbar=\"-mbrBtnMove\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"Equipment_lisst.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">EQUIPMENT RENTAL</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"#top\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REQUEST FOR QUOTE</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-4",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#7ac673",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true
+          },
+          "title": "REQUEST FOR QUOTE",
+          "form": {
+            "action": "chamangupta4av@gmail.com",
+            "alerts": {
+              "success": "Thanks for sharing your requirement. We shall get back to your shortly. Team CAV"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Mobile number*"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Kindly share your requirement of equipment and the date of the requirement. We shall revert back to you immediately"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"mbri-logout mbr-iconfont mbr-iconfont-btn\"></span>SUBMIT RFQ</a>"
+        }
+      ]
+    }
+  }
+}
