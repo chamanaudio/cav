@@ -9,7 +9,9 @@
       "title": "Mobirise",
       "styling": {}
     },
-    "uniqCompNum": 10
+    "uniqCompNum": 10,
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "CAV.html": {

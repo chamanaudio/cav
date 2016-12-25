@@ -1,0 +1,86 @@
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700);
+
+
+
+#ext_menu-0 .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-0.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2969b0;
+}
+#ext_menu-0 .mbr-navbar__section {
+  background: #2969b0;
+}
+#ext_menu-0 .mbr-navbar__items a {
+  font-size: 14px;
+}
+#ext_menu-0 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#header1-1 P {
+  text-align: left;
+  color: #ffffff;
+  font-size: 18px;
+  font-family: 'Oswald', sans-serif;
+}
+#header1-1 H1 {
+  text-align: center;
+  color: #ffffff;
+  font-family: 'Oswald', sans-serif;
+}
+#slider-3 P {
+  text-align: left;
+  color: #000000;
+  font-size: 13px;
+}
+#slider-3 H1 {
+  color: #000000;
+  text-align: left;
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 24px;
+}
+#contacts3-10 P {
+  color: #ffffff;
+}
+#header2-8 H1 {
+  color: #ffffff;
+}
+#header2-8 P {
+  color: #ffffff;
+}
+#dropdown-menu-2btn-9 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-9 .nav .link,
+#dropdown-menu-2btn-9 .dropdown-item {
+  font-size: 1em;
+  color: #ffffff;
+}
+#dropdown-menu-2btn-9 .navbar,
+#dropdown-menu-2btn-9 .dropdown-menu {
+  background: #333333;
+}
+#dropdown-menu-2btn-9 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-9 .dropdown-menu a:hover,
+#dropdown-menu-2btn-9 .dropdown-menu a:focus {
+  background: #292929;
+}
+#dropdown-menu-2btn-9 .navbar-toggler {
+  color: #ffffff;
+}
+#ext_menu-0 .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-0.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2969b0;
+}
+#ext_menu-0 .mbr-navbar__section {
+  background: #2969b0;
+}
+#ext_menu-0 .mbr-navbar__items a {
+  font-size: 14px;
+}
+#ext_menu-0 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
